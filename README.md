@@ -1,16 +1,11 @@
-# news_app_api
+#News App
+A Flutter-based news app that fetches and displays the latest news articles about Tesla using the NewsAPI. The app is built using GetX for state management and follows the MVC architecture for clean and maintainable code.
 
-A new Flutter project.
+#Features
+Fetches Tesla-related news articles using a public API.
 
-## Getting Started
+Displays the latest news articles sorted by publication date.
 
-This project is a starting point for a Flutter application.
+Built with Flutter using GetX for state management.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Follows MVC architecture for scalable and organized code.
