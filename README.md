@@ -21,4 +21,11 @@ A **Flutter-based** news app that fetches and displays the latest news articles 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repositoryname.git
+   git clone https://github.com/Hishamkool/newsApp_api.git
+                              
+2. Install dependencies:
+    ```bash
+    flutter pub get
+3. Run the app:
+   ```bash
+   flutter run
